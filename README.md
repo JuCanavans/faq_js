@@ -10,7 +10,7 @@
 </div>
 
 ## 🌐 Website
-Visit the [FAQ](https://fylo-landing-page-responsive.vercel.app/) to explore the live site.
+Visit the [FAQ](https://faq-js-ten.vercel.app/) to explore the live site.
 
 Desafio [Frontend Mentor](https://www.frontendmentor.io/profile/JuCanavans)
 
